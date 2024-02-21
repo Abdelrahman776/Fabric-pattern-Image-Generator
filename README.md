@@ -7,5 +7,6 @@
 ### The resulting image is displayed and separated into its RGB channels, with histograms plotted for each channel.
 
   <img src="pattern-rgb-channels.png">
+  <img src="histograms.png">
 
 ### Additionally, the script calculates the mean and standard deviation of the generated image.
