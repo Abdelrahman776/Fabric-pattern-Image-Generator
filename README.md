@@ -2,7 +2,9 @@
 
 ### This Python script generates a fabric pattern image with smooth color gradients and simulates cloth strands.
 
-  <img src="generated-pattern.jpg">
+|                    Pattern                    |                 Another pattern                 |
+| :-------------------------------------------: | :---------------------------------------------: |
+| <img src="generated-pattern.jpg" width="300"> | <img src="generated-pattern-2.jpg" width="300"> |
 
 ### The resulting image is displayed and separated into its RGB channels, with histograms plotted for each channel.
 
